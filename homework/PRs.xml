@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/homework/PRs.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/xml-xsl-xpath/homework/PRs.xsl"?>
 <pulls>
     <pull id="6276" status="open">
         <title>Prevent cursor events on app-logo svg</title>
